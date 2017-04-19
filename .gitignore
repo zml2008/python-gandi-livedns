@@ -1,0 +1,9 @@
+# Virtualenv
+ENV/
+build/
+
+# Python items
+*.egg-info/
+.eggs/
+*.pyc
+*.pyo
